@@ -1,0 +1,5 @@
+node_modules
+.vercel
+sesiones
+archivos_ws
+package-lock.json
